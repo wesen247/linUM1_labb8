@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.2, 2021-07-23T09:16:08. -->
+<!-- Written by QtCreator 4.13.2, 2021-08-02T09:36:08. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -323,8 +323,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/user/uppg8/Hello_World/Hello_World/Hello_World.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/user/uppg8/Hello_World/Hello_World/Hello_World.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Hello_World2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/user/uppg8/linUM1_labb8/Del1/Hello_World/Hello_World/Hello_World.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/user/uppg8/linUM1_labb8/Del1/Hello_World/Hello_World/Hello_World.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
