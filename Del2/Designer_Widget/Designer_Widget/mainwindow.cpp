@@ -1,7 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
-
 int usr_input = 0;
 
 int val_red = 0;
